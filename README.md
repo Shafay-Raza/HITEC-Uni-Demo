@@ -4,7 +4,7 @@ A fully responsive multi-page university website built using **HTML5** and **CSS
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](ADD_LIVE_DEMO_LINK_HERE)
+🔗 [View Live Site](https://hitec-uni-demo-b0hbuhxp6-muhammad-hamza-amins-projects.vercel.app/index.html)
 
 ---
 
@@ -76,12 +76,12 @@ hitec-university-website/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/YOUR_USERNAME/hitec-university-website.git
+   git clone https://github.com/Shafay-Raza/HITEC-Uni-Demo
    ```
 2. Open the project folder:
 
    ```sh
-   cd hitec-university-website
+   cd HITEC-Uni-Demo-main
    ```
 3. **Open `index.html` in your browser:**
 
